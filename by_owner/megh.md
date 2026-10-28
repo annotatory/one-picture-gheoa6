@@ -2,7 +2,7 @@
 
 Founder · ledger C-694. These are the 5 things only you can do or decide. The first two decide when the series can start. Each one shows what it is and what happens if it is not done.
 
-The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
 ## Reply in one message
 
@@ -47,9 +47,9 @@ Pictures: images/organic/4x5/p11_invite_s2.png
 
 **Question:** Does the Instagram bio link open the live waitlist page on nari1.com?
 
-- If NO: Hold post 11 until it does.
-- If there is no answer: Posts 11 and 12 stay held.
-- What it blocks: Post 11 and every post after it (the profile picture only forms in order)
+- If NO: Hold post 11 until it does. With all 12 posts going out on Instagram on one day, the launch day waits for it.
+- If there is no answer: Posts 11 and 12 stay held, and so does the launch day.
+- What it blocks: Post 11 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram)
 
 ## M4 · Post 12 · Launch · Store links (post 12 does not wait for them)
 
@@ -71,7 +71,7 @@ Pictures: images/organic/4x5/p12_launch_s3.png
 
 Pictures: images/organic/4x5/p12_launch_s1.png
 
-> Megh: "We start from today." Day 12 falls on 8 Nov 2026. A launch date goes in post 12's caption only, never on an image. With no date given the caption simply has no date line.
+> All 12 posts go out on Instagram on one launch day (Megh, 28 Oct 2026); on Facebook, LinkedIn and X post 12 goes out on day 12 (28 Oct night). A launch date goes in post 12's caption only, never on an image. With no date given the caption simply has no date line.
 
 **Question:** Do you want a launch date in the caption of post 12? (a date, or NO)
 

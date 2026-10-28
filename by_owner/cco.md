@@ -2,7 +2,7 @@
 
 Chief Clinical Officer · ledger C-683. You are asked 4 questions about 4 items. Each shows the exact picture and the exact words. Answer YES, NO or CHANGE-TO (your own wording). Megh reported that you signed the social packet on 28 Oct 2026; the scope is not confirmed, so these four stay held until the exact items you signed are named.
 
-The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
 ## Reply in one message
 
@@ -66,6 +66,6 @@ Pictures: images/organic/4x5/p10_call_s1.png, images/organic/4x5/p10_call_s2.png
 
 **Question:** May we describe the first call this way in public: a Nari health counsellor (not a doctor; they do not diagnose or prescribe), 30 minutes, and "stays with you: through the doctor, the tests and what comes next"?
 
-- If NO: Post 10 is held. Posts 11 and 12 wait behind it.
-- If there is no answer: Post 10 stays held. Posts 11 and 12 wait behind it.
-- What it blocks: Post 10 and every post after it (the profile picture only forms in order)
+- If NO: Post 10 is held. Posts 11 and 12 wait behind it, and with all 12 posts going out on Instagram on one day, the launch day waits for it.
+- If there is no answer: Post 10 stays held. Posts 11 and 12 wait behind it, and so does the launch day.
+- What it blocks: Post 10 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram)

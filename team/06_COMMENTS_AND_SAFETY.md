@@ -68,7 +68,8 @@ Stop posting and tell Megh **before the next post** if any of these happens:
 
 - Comments complain about a post, or several people react badly to the same thing.
 - A platform sends a warning, removes a post, or limits the account.
-- Reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post today's post, do the 24-hour check for yesterday's post (see 02_HOW_TO_POST): open yesterday's Instagram post, tap **View insights**, read **Accounts reached**, and write it in yesterday's Instagram feed row of 08_ENGAGEMENT_LOG.csv (this needs a professional account; if you do not see it, tell Megh). Compare it with the Instagram feed row of the day before. Posts 1 and 2 only record the number; the comparison starts at post 3. If it is less than half, **do not post today**: tell Megh, and wait for Megh's answer. If Megh has not answered by the end of the posting window, do not post that day. This rule is a default to review after week one, not a result from our own data.
+- During the launch day sitting, or a day's Facebook, LinkedIn or X post: the app says to try again later, blocks an action, or a post fails twice. Stop at that post, do not retry many times, and tell Megh.
+- For the later, paced posts (after the 12 launch posts): reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post a later post, open the previous Instagram post, tap **View insights**, read **Accounts reached**, and write it in 08_ENGAGEMENT_LOG.csv (this needs a professional account; if you do not see it, tell Megh). If it is less than half of the one before, **do not post**: tell Megh, and wait for Megh's answer. This rule is a default to review, not a result from our own data.
 - Anything in a comment or message that you did not expect or do not understand.
 
 Megh decides whether the series continues.

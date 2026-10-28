@@ -2,7 +2,7 @@
 
 QA · ledger C-695. You are asked 1 yes/no fact. Each shows the exact picture. If you are not sure, answer NO: the item stays as described and you can change your answer later.
 
-The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
 ## Reply in one message
 

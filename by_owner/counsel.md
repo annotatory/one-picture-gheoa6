@@ -2,7 +2,7 @@
 
 Legal counsel · ledger C-684, Q13 C-704. You are asked 5 questions about 5 items. Each shows the exact picture and the exact words. Please answer YES, NO or CHANGE-TO (your own wording). Nothing goes out on a point you have not answered.
 
-The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
 ## Reply in one message
 
@@ -17,6 +17,8 @@ Answer YES, NO or CHANGE-TO followed by your wording.
 
 ## L1 · Post 2 (paid) · Paid use of "Who takes care of you?"
 
+**CLEARED 28 Oct 2026**
+
 Pictures: images/organic/4x5/p02_problem_s1.png
 
 > "Everyone's taken care of. Who takes care of you?" as a paid ad line. It is an identity line, not a health line. The paid caption leaves out "You've remembered everyone's everything."
@@ -29,6 +31,8 @@ Pictures: images/organic/4x5/p02_problem_s1.png
 
 ## L2 · Post 6 · Piece 3 · Stress · The "That's not me" screen (Q13, C-704)
 
+**CLEARED 28 Oct 2026**
+
 Pictures: images/organic/4x5/p06_stress_s2.png
 
 > The picture shows the app card "You run on short nights. Two of your last four were short." with the button "That's not me". The companion's name does not appear on this picture.
@@ -37,9 +41,11 @@ Pictures: images/organic/4x5/p06_stress_s2.png
 
 - If NO: Post 6 is held. Posts 7 to 12 wait behind it.
 - If there is no answer: Post 6 stays held. Posts 7 to 12 wait behind it.
-- What it blocks: Post 6 and every post after it (the profile picture only forms in order)
+- What it blocks: Post 6 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram)
 
 ## L3 · Post 7 · Piece 4 · Sleep · The "from your phone" words
+
+**CLEARED 28 Oct 2026**
 
 Pictures: images/organic/4x5/p07_sleep_s2.png, images/organic/4x5/p07_sleep_s3.png
 
@@ -49,9 +55,11 @@ Pictures: images/organic/4x5/p07_sleep_s2.png, images/organic/4x5/p07_sleep_s3.p
 
 - If NO: Post 7 is held. Posts 8 to 12 wait behind it.
 - If there is no answer: Post 7 stays held. Posts 8 to 12 wait behind it.
-- What it blocks: Post 7 and every post after it (the profile picture only forms in order)
+- What it blocks: Post 7 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram)
 
 ## L4 · Post 9 (paid) · Paid category for post 9
+
+**CLEARED 28 Oct 2026**
 
 Pictures: images/paid_safe/4x5/p09_body_s2.png, images/paid_safe/4x5/p09_body_s3.png
 
@@ -65,6 +73,8 @@ Pictures: images/paid_safe/4x5/p09_body_s2.png, images/paid_safe/4x5/p09_body_s3
 
 ## L5 · Post 10 · Prove · Advertising the first call and Founding 1,000
 
+**CLEARED 28 Oct 2026**
+
 Pictures: images/organic/4x5/p10_call_s1.png, images/organic/4x5/p10_call_s2.png, images/organic/4x5/p10_call_s3.png
 
 > The same words as K4, plus: "Founding 1,000: your first call is ₹49, not ₹499, the final price, tax included. You also get 3 months of Nari Plus free (worth ₹1,197) and become a Nari founding member, with your own number." "A Nari health counsellor calls you within 48 hours of the app going live for you. If we don't, your ₹49 comes back automatically." "Only 1,000 founding spots. When they are gone, this offer closes." Posts 11 and 12 repeat the offer in their captions.
@@ -73,4 +83,4 @@ Pictures: images/organic/4x5/p10_call_s1.png, images/organic/4x5/p10_call_s2.png
 
 - If NO: Post 10 is held. Posts 11 and 12 wait behind it.
 - If there is no answer: Post 10 stays held. Posts 11 and 12 wait behind it.
-- What it blocks: Post 10 and every post after it (the profile picture only forms in order)
+- What it blocks: Post 10 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram)

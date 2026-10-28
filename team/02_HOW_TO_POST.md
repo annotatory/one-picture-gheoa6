@@ -16,16 +16,23 @@ LinkedIn uses the **square** folder (LINKEDIN_FACEBOOK_1x1), not the wide one. T
 
 ## The time
 
-Post everything for the day between **7:30 to 9:30 pm India time**, in this order: Instagram feed, Instagram Story, Facebook, LinkedIn, X. This window is the default and it is a **test**: it is not based on our own data. Post in it every day. Every post gets its 24-hour numbers written in 08_ENGAGEMENT_LOG.csv. In week 2 (post 8 onward) Megh looks at the log and says whether to keep the window or move it. Do not move it yourself. The Story goes after the feed post, never before.
+**Instagram: all 12 posts on the launch day.** Start at the opening of **7:30 to 9:30 pm India time** and work in rounds: **round 1** the Instagram feed for posts 1 to 12, in order (the grid forms at once; never leave it half done); **round 2** Instagram Stories 1 to 12; **round 3** post 1 on Facebook, then LinkedIn, then X. **Facebook, LinkedIn and X: one post a day** (28 Oct, night: twelve posts in one day would flood follower feeds there). Each day after the launch day, at the opening of the same window, post the next post on Facebook, LinkedIn and X: post 2 on day 2, up to post 12 on day 12 (01_POSTING_CALENDAR gives each date). Never post two on one platform in a day: if a day is missed, tell Megh. The sitting takes about two hours: if the window ends before you finish, finish the round you are in and tell Megh. This window is the default and it is a **test**: it is not based on our own data. Every post gets its 24-hour numbers written in 08_ENGAGEMENT_LOG.csv. After the 12, Megh looks at the log and sets the time for the later, paced posts. Do not move it yourself. Each post's Story goes after its feed post, never before.
 
-## Before every post (2 minutes)
+## Before the launch day sitting (10 minutes)
 
-1. Open 01_POSTING_CALENDAR. Find today's post. Check the status is **GO** or **GO-WITH-FALLBACK**. If it says **STOP-UNTIL**, do not post. Tell Megh.
-2. Check yesterday's post is in 07_POSTED_LOG.csv.
-3. Open today's post folder in 04_POSTS. The folder name ends in the status (for example P05_Focus__GO).
-4. Open STATUS.txt. It has a **card for each platform** with the account, the exact files in the order to pick them, the caption file and a ready log row. If it says GO-WITH-FALLBACK, use the fallback files it names.
-5. Copy the files to your phone: the folder for each platform, plus caption.txt, caption_for_X.txt and alt_text.txt.
-6. Do the **24-hour check** for yesterday's post: open each platform's insights for yesterday's post and copy the numbers into 08_ENGAGEMENT_LOG.csv (see "The engagement log" below). On Instagram: open yesterday's post, tap **View insights**. Posts 1 and 2 only record the numbers; the stop-rule comparison starts at post 3 (06_COMMENTS_AND_SAFETY).
+1. Open 01_POSTING_CALENDAR. Check that **every** post, 1 to 12, says **GO** or **GO-WITH-FALLBACK** under Status today. If any post says **STOP-UNTIL**, do not post anything. Tell Megh.
+2. Open nari1.com and check it still shows founding spots. If all 1,000 are taken, do not post anything: tell Megh. Check again on days 10, 11 and 12, before posts 10, 11 and 12 go out on Facebook, LinkedIn and X: if all are taken by then, do not post them: tell Megh.
+3. Open each post folder in 04_POSTS. The folder name ends in the status (for example P05_Focus__GO).
+4. Open each STATUS.txt. It has a **card for each platform** with the account, the exact files in the order to pick them, the caption file and a ready log row. If it says GO-WITH-FALLBACK, use the fallback files it names.
+5. Copy the files to your phone for all 12 posts: the folder for each platform, plus caption.txt, caption_for_X.txt and alt_text.txt.
+
+## Between posts
+
+Post n goes out only after post n-1 is live on that platform: check it, then add its row to 07_POSTED_LOG.csv, then post the next one (on Facebook, LinkedIn and X: the next day).
+
+## The day after
+
+Do the **24-hour check** for the 12 Instagram posts and for post 1 on Facebook, LinkedIn and X: open each platform's insights for each post and copy the numbers into 08_ENGAGEMENT_LOG.csv (see "The engagement log" below). On Instagram: open the post, tap **View insights**. Then every day until day 13, before you post the next one, do the same for the Facebook, LinkedIn and X post of the day before.
 
 ## Instagram feed (a carousel of slides)
 
@@ -42,7 +49,7 @@ Post everything for the day between **7:30 to 9:30 pm India time**, in this orde
 
 1. In Instagram swipe right (or tap **+**, then **Story**).
 2. Pick the story file from INSTAGRAM_story_9x16 (P05_story.png). Do not add text, stickers, music or links.
-3. Tap **Your story**. A Story has no caption and needs no alt text. (The same file is what Megh uses for WhatsApp Status. You do not post to WhatsApp unless Megh asks.)
+3. If Instagram offers to share the story to Facebook as well, leave that **off**: Facebook gets these posts one a day, not twelve at once. Tap **Your story**. A Story has no caption and needs no alt text. (The same file is what Megh uses for WhatsApp Status. You do not post to WhatsApp unless Megh asks.)
 
 ## Facebook (square pictures)
 
@@ -73,7 +80,7 @@ The file has one block per picture: "PICTURE 1 of 3", then the line to paste on 
 
 | Platform | Check | Then |
 |---|---|---|
-| Instagram feed | Open the live post. Swipe every slide: order 1, 2, 3, nothing cut off (except the on-purpose crops on slide 1 of posts 4 to 9). Read the caption. Open the three dots, Edit, and check the alt text is there. Open your profile and take a **screenshot of the grid**; send it to Megh. | Add the log row. |
+| Instagram feed | Open the live post. Swipe every slide: order 1, 2, 3, nothing cut off (except the on-purpose crops on slide 1 of posts 4 to 9). Read the caption. Open the three dots, Edit, and check the alt text is there. After post 12, open your profile and take a **screenshot of the grid**; send it to Megh. | Add the log row. |
 | Instagram Story | Open your story. Check the picture shows and is the right one. | Add the log row. |
 | Facebook and LinkedIn | Open the post. Check slide order and the caption. | Add the log row. |
 | X | Open the post. Check the picture and the caption. | Add the log row. |
@@ -84,7 +91,7 @@ The file has one block per picture: "PICTURE 1 of 3", then the line to paste on 
 5,Instagram feed,2026-11-01 20:05,https://www.instagram.com/p/EXAMPLE/,Priya,none
 ```
 
-**The engagement log.** Add one row per platform to **08_ENGAGEMENT_LOG.csv** about 24 hours after each post goes live (do it as part of tomorrow's "before every post" check). Columns: post number, platform, posted at, checked at, hours after posting, reach or impressions, likes or reactions, comments, shares, saves, profile visits, new followers, note. Copy each number as the app shows it; leave a cell empty if the app does not show it; never guess. The note is for anything unusual (a complaint, a warning). Instagram shows reach, likes, comments, shares, saves and profile visits under **View insights** (professional account); the other platforms show impressions and reactions on the post. If an Instagram number is missing because the account is not set up for insights, tell Megh.
+**The engagement log.** Add one row per post and platform to **08_ENGAGEMENT_LOG.csv** about 24 hours after the post went out (the next evening, see "The day after"; on Facebook, LinkedIn and X that is one post each day). Columns: post number, platform, posted at, checked at, hours after posting, reach or impressions, likes or reactions, comments, shares, saves, profile visits, new followers, note. Copy each number as the app shows it; leave a cell empty if the app does not show it; never guess. The note is for anything unusual (a complaint, a warning). Instagram shows reach, likes, comments, shares, saves and profile visits under **View insights** (professional account); the other platforms show impressions and reactions on the post. If an Instagram number is missing because the account is not set up for insights, tell Megh.
 
 ## Mistakes and how to fix them
 

@@ -2,7 +2,7 @@
 
 Flutter app. These are 8 yes/no facts about the app on launch day. They are FOR INFORMATION: posts do not wait for your answers (Megh decided on 28 Oct 2026). If an answer is NO, Megh decides whether to fix the screen, reword the post, or pull it. If a line is not true on day 1 it is worded as "coming" on the post.
 
-The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
 ## Reply in one message
 
