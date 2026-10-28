@@ -1,8 +1,8 @@
-# Counsel: 5 questions before the Nari 1 launch posts go out
+# Counsel: 5 questions on the Nari 1 launch posts
 
 Legal counsel · ledger C-684, Q13 C-704. You are asked 5 questions about 5 items. Each shows the exact picture and the exact words. Please answer YES, NO or CHANGE-TO (your own wording). Nothing goes out on a point you have not answered.
 
-The posts go out one a day in a fixed order, 1 to 12, so the profile forms one picture. A held post holds back the posts after it.
+The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
 
 ## Reply in one message
 
@@ -63,13 +63,13 @@ Pictures: images/paid_safe/4x5/p09_body_s2.png, images/paid_safe/4x5/p09_body_s3
 - If there is no answer: No paid ad for post 9.
 - What it blocks: The paid version of post 9 only (the organic post is not blocked)
 
-## L5 · Post 10 · Prove · Advertising the ₹499 call
+## L5 · Post 10 · Prove · Advertising the first call and Founding 1,000
 
-Pictures: images/organic/4x5/p10_call_s1.png, images/organic/4x5/p10_call_s2.png
+Pictures: images/organic/4x5/p10_call_s1.png, images/organic/4x5/p10_call_s2.png, images/organic/4x5/p10_call_s3.png
 
-> The same words as K4, plus the caption: "30 minutes on the phone, in the window you pick. ₹499, the final price, tax included. No upsell on the call."
+> The same words as K4, plus: "Founding 1,000: your first call is ₹49, not ₹499, the final price, tax included. You also get 3 months of Nari Plus free (worth ₹1,197) and become a Nari founding member, with your own number." "A Nari health counsellor calls you within 48 hours of the app going live for you. If we don't, your ₹49 comes back automatically." "Only 1,000 founding spots. When they are gone, this offer closes." Posts 11 and 12 repeat the offer in their captions.
 
-**Question:** Which advertising rules apply to a call with a Nari health coach or counsellor, and is this wording fine, organic and paid?
+**Question:** Which advertising rules apply to a call with a Nari health counsellor, and is this wording fine, organic and paid: ₹499 struck through as the regular price, "worth ₹1,197", the 48-hour refund promise and the cap of 1,000?
 
 - If NO: Post 10 is held. Posts 11 and 12 wait behind it.
 - If there is no answer: Post 10 stays held. Posts 11 and 12 wait behind it.

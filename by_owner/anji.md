@@ -1,8 +1,8 @@
-# Anji: 8 questions before the Nari 1 launch posts go out
+# Anji: 8 questions on the Nari 1 launch posts
 
-Flutter app. You are asked 8 yes/no facts about the app on launch day (day 1). Each shows the exact screen that will be posted. If you are not sure, answer NO: the post is held and you can change your answer later.
+Flutter app. These are 8 yes/no facts about the app on launch day. They are FOR INFORMATION: posts do not wait for your answers (Megh decided on 28 Oct 2026). If an answer is NO, Megh decides whether to fix the screen, reword the post, or pull it. If a line is not true on day 1 it is worded as "coming" on the post.
 
-The posts go out one a day in a fixed order, 1 to 12, so the profile forms one picture. A held post holds back the posts after it.
+The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
 
 ## Reply in one message
 
@@ -20,17 +20,21 @@ Answer YES, NO or CHANGE-TO followed by your wording.
 
 ## A1 · Post 3 · Blueprint · "Your six" card
 
+**FYI: posts do not wait for this.**
+
 Pictures: images/organic/4x5/p03_blueprint_s2.png
 
 > The card "Your six": six rows (Mood, Sleep, Energy, Focus, Stress, Body), each with her word and one plain line.
 
 **Question:** Is this card in the launch build on day 1?
 
-- If NO: Post 3 cannot show it. Post 3 is held and posts 4 to 12 wait.
-- If there is no answer: Post 3 stays held. Posts 4 to 12 wait.
-- What it blocks: Post 3 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A2 · Post 4, 5, 7, 8 · The five-word check-in rows
+
+**FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p04_energy_s2.png, images/organic/4x5/p05_focus_s2.png, images/organic/4x5/p07_sleep_s2.png, images/organic/4x5/p08_mood_s2.png
 
@@ -38,11 +42,13 @@ Pictures: images/organic/4x5/p04_energy_s2.png, images/organic/4x5/p05_focus_s2.
 
 **Question:** Does the check-in work this way in the launch build on day 1?
 
-- If NO: Post 4 is held. Every post after it waits.
-- If there is no answer: Post 4 stays held. Every post after it waits.
-- What it blocks: Post 4 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A3 · Post 6 · Piece 3 · Stress · "That's not me" on what it learns
+
+**FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p06_stress_s2.png
 
@@ -50,11 +56,13 @@ Pictures: images/organic/4x5/p06_stress_s2.png
 
 **Question:** Is "That's not me" in the launch build on day 1?
 
-- If NO: Post 6 is held. Posts 7 to 12 wait.
-- If there is no answer: Post 6 stays held. Posts 7 to 12 wait.
-- What it blocks: Post 6 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A4 · Post 6 · Piece 3 · Stress · "What I'm still learning"
+
+**FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p06_stress_s3.png
 
@@ -62,11 +70,13 @@ Pictures: images/organic/4x5/p06_stress_s3.png
 
 **Question:** Is the "What I'm still learning" list in the launch build on day 1?
 
-- If NO: Post 6 is held. Posts 7 to 12 wait.
-- If there is no answer: Post 6 stays held. Posts 7 to 12 wait.
-- What it blocks: Post 6 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A5 · Post 7 · Piece 4 · Sleep · Sleep from the phone, and the pink line
+
+**FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p07_sleep_s2.png, images/organic/4x5/p07_sleep_s3.png
 
@@ -74,11 +84,13 @@ Pictures: images/organic/4x5/p07_sleep_s2.png, images/organic/4x5/p07_sleep_s3.p
 
 **Question:** Are both in the launch build on day 1?
 
-- If NO: Post 7 is held. Posts 8 to 12 wait.
-- If there is no answer: Post 7 stays held. Posts 8 to 12 wait.
-- What it blocks: Post 7 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A6 · Post 9 · Piece 6 · Body · "Anything else today?" and "Your month"
+
+**FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p09_body_s2.png, images/organic/4x5/p09_body_s3.png
 
@@ -86,30 +98,34 @@ Pictures: images/organic/4x5/p09_body_s2.png, images/organic/4x5/p09_body_s3.png
 
 **Question:** Are both in the launch build on day 1?
 
-- If NO: Post 9 is held. Posts 10 to 12 wait.
-- If there is no answer: Post 9 stays held. Posts 10 to 12 wait.
-- What it blocks: Post 9 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A7 · Post 10 · Prove · The call card
 
+**FYI: posts do not wait for this.**
+
 Pictures: images/organic/4x5/p10_call_s2.png
 
-> The card "What you get for ₹499": the 30 minutes with a Nari health coach or counsellor, "Your coach reads your 9 days first", and the price.
+> The card "What you get": the 30 minutes with a Nari health counsellor, "Your counsellor stays with you: through the doctor, the tests and what comes next.", and the founding price ₹49 with ₹499 struck through.
 
 **Question:** Is this card in the launch build on day 1?
 
-- If NO: Post 10 is held. Posts 11 and 12 wait.
-- If there is no answer: Post 10 stays held. Posts 11 and 12 wait.
-- What it blocks: Post 10 and every post after it (the profile picture only forms in order)
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback
 
 ## A8 · Post 12 · Launch · The start screen: three ways in
 
+**FYI: posts do not wait for this.**
+
 Pictures: images/organic/4x5/p12_launch_s2.png
 
-> The start screen with three ways in: "Know me first" (Free), "Talk to someone now" (₹499), "Just looking".
+> The start screen with three ways in: "Know me first" (Free), "Talk to someone now" (₹49, with ₹499 struck through), "Just looking".
 
 **Question:** Is this screen, with these words, in the store build on day 1?
 
-- If NO: Post 12 is not posted.
-- If there is no answer: Post 12 stays held.
-- What it blocks: Post 12 only
+- If NO: FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post.
+- If there is no answer: The post goes out anyway (Megh decided on 28 Oct 2026).
+- What it blocks: Nothing: the post goes out with the fallback

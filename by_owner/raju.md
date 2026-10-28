@@ -1,8 +1,8 @@
-# Raju: 1 question before the Nari 1 launch posts go out
+# Raju: 1 question on the Nari 1 launch posts
 
-QA · ledger C-695. You are asked 1 yes/no fact about the app on launch day (day 1). Each shows the exact screen that will be posted. If you are not sure, answer NO: the post is held and you can change your answer later.
+QA · ledger C-695. You are asked 1 yes/no fact. Each shows the exact picture. If you are not sure, answer NO: the item stays as described and you can change your answer later.
 
-The posts go out one a day in a fixed order, 1 to 12, so the profile forms one picture. A held post holds back the posts after it.
+The posts go out one a day in a fixed order, 1 to 12, starting 28 Oct 2026. A held post holds back the posts after it.
 
 ## Reply in one message
 

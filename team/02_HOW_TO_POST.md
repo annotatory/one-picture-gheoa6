@@ -16,7 +16,7 @@ LinkedIn uses the **square** folder (LINKEDIN_FACEBOOK_1x1), not the wide one. T
 
 ## The time
 
-Post everything for the day between **7:30 and 9:30 pm India time**, in this order: Instagram feed, Instagram Story, Facebook, LinkedIn, X. This window is a default to review after the first week. It is not based on our own data. Use it unless Megh tells you otherwise. The Story goes after the feed post, never before.
+Post everything for the day between **7:30 to 9:30 pm India time**, in this order: Instagram feed, Instagram Story, Facebook, LinkedIn, X. This window is the default and it is a **test**: it is not based on our own data. Post in it every day. Every post gets its 24-hour numbers written in 08_ENGAGEMENT_LOG.csv. In week 2 (post 8 onward) Megh looks at the log and says whether to keep the window or move it. Do not move it yourself. The Story goes after the feed post, never before.
 
 ## Before every post (2 minutes)
 
@@ -25,7 +25,7 @@ Post everything for the day between **7:30 and 9:30 pm India time**, in this ord
 3. Open today's post folder in 04_POSTS. The folder name ends in the status (for example P05_Focus__GO).
 4. Open STATUS.txt. It has a **card for each platform** with the account, the exact files in the order to pick them, the caption file and a ready log row. If it says GO-WITH-FALLBACK, use the fallback files it names.
 5. Copy the files to your phone: the folder for each platform, plus caption.txt, caption_for_X.txt and alt_text.txt.
-6. Look at yesterday's Instagram reach (see 06_COMMENTS_AND_SAFETY, "The stop rule"). You will write it in today's Instagram feed log row. Posts 1 and 2 only record reach; the comparison starts at post 3.
+6. Do the **24-hour check** for yesterday's post: open each platform's insights for yesterday's post and copy the numbers into 08_ENGAGEMENT_LOG.csv (see "The engagement log" below). On Instagram: open yesterday's post, tap **View insights**. Posts 1 and 2 only record the numbers; the stop-rule comparison starts at post 3 (06_COMMENTS_AND_SAFETY).
 
 ## Instagram feed (a carousel of slides)
 
@@ -78,11 +78,13 @@ The file has one block per picture: "PICTURE 1 of 3", then the line to paste on 
 | Facebook and LinkedIn | Open the post. Check slide order and the caption. | Add the log row. |
 | X | Open the post. Check the picture and the caption. | Add the log row. |
 
-**The log.** Add one row to **07_POSTED_LOG.csv** per platform, after the checks. Copy the ready row from the card in STATUS.txt and fill in the time you posted, the link and your name. Format: date and time as 2026-11-12 20:05 (India time); platform exactly as written in the card; no commas in the issue column (use semicolons). **The link:** open the live post, then Instagram: three dots, Link; Facebook: Share, Copy link; LinkedIn: three dots, Copy link to post; X: Share, Copy link. For a Story write "story, no link". **Reach:** in today's Instagram feed row write yesterday's reach in the issue column, like `none; yesterday reach 1234`. **Where to write the log:** open the CSV in a spreadsheet app (for example Google Sheets, File, Import) on your phone or laptop, or use a shared sheet Megh gives you with the same columns. Example row:
+**The log.** Add one row to **07_POSTED_LOG.csv** per platform, after the checks. Copy the ready row from the card in STATUS.txt and fill in the time you posted, the link and your name. Format: date and time as 2026-10-28 20:05 (India time); platform exactly as written in the card; no commas in the issue column (use semicolons). **The link:** open the live post, then Instagram: three dots, Link; Facebook: Share, Copy link; LinkedIn: three dots, Copy link to post; X: Share, Copy link. For a Story write "story, no link". **Where to write the log:** open the CSV in a spreadsheet app (for example Google Sheets, File, Import) on your phone or laptop, or use a shared sheet Megh gives you with the same columns. Example row:
 
 ```
-5,Instagram feed,2026-11-12 20:05,https://www.instagram.com/p/EXAMPLE/,Priya,none
+5,Instagram feed,2026-11-01 20:05,https://www.instagram.com/p/EXAMPLE/,Priya,none
 ```
+
+**The engagement log.** Add one row per platform to **08_ENGAGEMENT_LOG.csv** about 24 hours after each post goes live (do it as part of tomorrow's "before every post" check). Columns: post number, platform, posted at, checked at, hours after posting, reach or impressions, likes or reactions, comments, shares, saves, profile visits, new followers, note. Copy each number as the app shows it; leave a cell empty if the app does not show it; never guess. The note is for anything unusual (a complaint, a warning). Instagram shows reach, likes, comments, shares, saves and profile visits under **View insights** (professional account); the other platforms show impressions and reactions on the post. If an Instagram number is missing because the account is not set up for insights, tell Megh.
 
 ## Mistakes and how to fix them
 

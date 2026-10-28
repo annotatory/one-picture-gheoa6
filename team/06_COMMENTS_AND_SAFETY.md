@@ -15,16 +15,17 @@ Nari 1 is a women's health app. People may write personal things. Be warm, short
 
 - **No medical advice.** Not even a small tip. No "you should", no "try", no talk about symptoms, tablets, tests or cycles.
 - **No diagnosing.** Never say what someone "has" or what a symptom "means".
-- **No prices** other than the published ones: the ₹499 call (only after post 10 is live) and "free" for the daily check-in and the Chi score.
-- **No promises.** Never promise a launch date, a feature, a result or a reply.
-- **Never say the ₹499 call is with a doctor.** It is with a Nari health coach or counsellor.
+- **No prices** other than the ones on the posts: Founding 1,000 (the first call ₹49, not ₹499; 3 months of Nari Plus free; a founding member number), only after post 10 is live, and "free" for the daily check-in and the Chi score. Nothing off anything else: no credit from a call, nothing off the Care Plan.
+- **Never say how many founding spots are left**, and never "hurry", "last few" or a countdown. Point to nari1.com: only the live page counts.
+- **No promises.** Never promise a launch date, a feature, a result or a reply. The one promise you may repeat, word for word and only from post 10 on: "A Nari health counsellor calls you within 48 hours of the app going live for you. If we don't, your ₹49 comes back automatically."
+- **Never say the call is with a doctor.** It is with a **Nari health counsellor**: use only that title, never any other word for the person on the call.
 - No arguing. No emoji storms. No copying other people's comments.
 
 **Safe replies you can use word for word** (Megh must approve this list before the first use; until then, tell Megh and wait):
 
-- "Thank you. We are glad it speaks to you."
-- "Thank you for telling us. We have passed it on to the team."
-- "Good question. We will come back to you here." (then tell Megh the same day)
+1. Kind comments: "Thank you. We are glad it speaks to you." From post 10 on you may add: "The first 1,000 women can reserve a founding spot at nari1.com."
+2. Complaints, criticism, feedback or anything personal: "Thank you for telling us. We have passed it on to the team." Never add the offer or a link to this one.
+3. Questions. Before post 10, and for any question that is not about the call or its price: "Good question. We will come back to you here." (then tell Megh the same day). From post 10 on, for a question about the call or its price: "Good question. Your first call is 30 minutes on the phone with a Nari health counsellor (not a doctor). For the first 1,000 women it is ₹49, not ₹499, with 3 months of Nari Plus free. A Nari health counsellor calls you within 48 hours of the app going live for you. If we don't, your ₹49 comes back automatically. Reserve at nari1.com."
 
 ## If someone sounds in distress (in a comment or a message)
 
@@ -67,7 +68,7 @@ Stop posting and tell Megh **before the next post** if any of these happens:
 
 - Comments complain about a post, or several people react badly to the same thing.
 - A platform sends a warning, removes a post, or limits the account.
-- Reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post today's post, open yesterday's Instagram post, tap **View insights**, and read **Accounts reached** (this needs a professional account; if you do not see it, tell Megh). Write the number in the issue column of today's Instagram feed row in the POSTED_LOG, like `none; yesterday reach 1234`. Compare it with the number from the day before in the log. Posts 1 and 2 only record the number; the comparison starts at post 3. If it is less than half, **do not post today**: tell Megh, and wait for Megh's answer. If Megh has not answered by 9:30 pm, do not post that day. This rule is a default to review after week one, not a result from our own data.
+- Reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post today's post, do the 24-hour check for yesterday's post (see 02_HOW_TO_POST): open yesterday's Instagram post, tap **View insights**, read **Accounts reached**, and write it in yesterday's Instagram feed row of 08_ENGAGEMENT_LOG.csv (this needs a professional account; if you do not see it, tell Megh). Compare it with the Instagram feed row of the day before. Posts 1 and 2 only record the number; the comparison starts at post 3. If it is less than half, **do not post today**: tell Megh, and wait for Megh's answer. If Megh has not answered by the end of the posting window, do not post that day. This rule is a default to review after week one, not a result from our own data.
 - Anything in a comment or message that you did not expect or do not understand.
 
 Megh decides whether the series continues.

@@ -1,6 +1,8 @@
 # Master tracker: Nari 1 launch posts
 
-31 questions, 7 owners. Status and answer date are blank on purpose.
+31 questions, 7 owners.
+
+**CCO sign-off reported, scope unconfirmed (28 Oct 2026).** Megh reported that the CCO signed off the social packet. Nothing is cleared from that sentence. It could plausibly cover: K1 (post 3 caption sentence), K3 (post 9 slide 3, the cycle sentence), K4 (post 10: the Nari health counsellor words, the 30 minutes and the line on staying with her through the doctor and the tests), and K2 (the paid Chi-score caption). Those four stay HELD until Megh or the CCO names the exact items signed. Holding them costs nothing today: post 3 and post 9 go out with their prepared fallbacks, and post 10 is also held by counsel and Naresh. To clear: python3 -I refresh_kit.py --clear K1 K2 K3 K4.
 
 ## View 1: by owner
 
@@ -8,21 +10,20 @@
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| M1 | Post 1 · Tease | Waitlist page live | Megh | Is the waitlist page live at a real address you can open on a phone? |  |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
-| M2 | Post 1 · Tease | The address nari1.com (C-694) | Megh | Do you own nari1.com now? |  |  | Tell the team which address the waitlist page uses instead. The series still waits for a live page. | Everything: no post goes out |
-| M3 | Post 1 to 12 | Grid test on a private account | Megh | The team posts the 12 tiles (slide 1 of each post, in order 1 to 12) on a private test account and sends you a screenshot. Does the profile show one joined picture like the one above? |  |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
-| M4 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page (and later the store page)? |  |  | Hold post 11 until it does. | Post 11 and every post after it (the profile picture only forms in order) |
-| M5 | Post 12 · Launch | Store links | Megh | Are the App Store and Play Store links live? |  |  | Do not post 12. | Post 12 only |
-| M6 | Post 12 · Launch | Launch date | Megh | What is the launch date? (a date, or NOT YET) |  |  | NOT YET: post 12 waits. | Post 12 only |
+| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? |  |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
+| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) |  |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
+| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? |  |  | Hold post 11 until it does. | Post 11 and every post after it (the profile picture only forms in order) |
+| M4 | Post 12 · Launch | Store links (post 12 does not wait for them) | Megh | When the App Store and Play Store links are live, add them to the nari1.com page and keep the bio link on nari1.com (it carries the founding reserve). Tell the team lead. | FYI (does not hold) |  | Nothing is held: post 12 goes out with the bio link on nari1.com. | Nothing: the post goes out with the fallback |
+| M5 | Post 12 · Launch | Date for the post 12 caption (optional) | Megh | Do you want a launch date in the caption of post 12? (a date, or NO) | FYI (does not hold) |  | Post 12 goes out with the caption that has no date line. | Nothing: the post goes out with the fallback |
 
 ### CCO (Chief Clinical Officer)
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| K1 | Post 3 · Blueprint | Caption sentence: compares you with you | CCO | May we add this sentence to post 3's caption? (Harsha must also confirm it is true.) |  |  | Post 3 goes out without it. It is already left out. | Nothing: the post goes out with the fallback |
-| K2 | Post 3 (paid) | Paid caption: what the Chi score is | CCO | May this wording run in a paid ad? |  |  | No paid ad for post 3. The organic post is not affected. | The paid version of post 3 only (the organic post is not blocked) |
-| K3 | Post 9 · Piece 6 · Body | Cycle sentence on the organic slide | CCO | May this sentence appear on an organic post, 18+ only? |  |  | We post the paid-safe slides 2 and 3 instead. They carry no cycle sentence. | Nothing: the post goes out with the fallback |
-| K4 | Post 10 · Prove | The ₹499 call: who calls, and the 30 minutes | CCO | May we describe the ₹499 call this way in public: a Nari health coach or counsellor (not a doctor; they do not diagnose or prescribe) and 30 minutes? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| K1 | Post 3 · Blueprint | Caption sentence: compares you with you | CCO | May we add this sentence to post 3's caption? (Harsha must also confirm it is true.) | REPORTED 28 Oct, scope unconfirmed: HELD |  | Post 3 goes out without it. It is already left out. | Nothing: the post goes out with the fallback |
+| K2 | Post 3 (paid) | Paid caption: what the Chi score is | CCO | May this wording run in a paid ad? | REPORTED 28 Oct, scope unconfirmed: HELD |  | No paid ad for post 3. The organic post is not affected. | The paid version of post 3 only (the organic post is not blocked) |
+| K3 | Post 9 · Piece 6 · Body | Cycle sentence on the organic slide | CCO | May this sentence appear on an organic post, 18+ only? | REPORTED 28 Oct, scope unconfirmed: HELD |  | We post the paid-safe slides 2 and 3 instead. They carry no cycle sentence. | Nothing: the post goes out with the fallback |
+| K4 | Post 10 · Prove | The first call: who calls, the 30 minutes, "stays with you" | CCO | May we describe the first call this way in public: a Nari health counsellor (not a doctor; they do not diagnose or prescribe), 30 minutes, and "stays with you: through the doctor, the tests and what comes next"? | REPORTED 28 Oct, scope unconfirmed: HELD |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
 
 ### Counsel (Legal counsel)
 
@@ -32,17 +33,18 @@
 | L2 | Post 6 · Piece 3 · Stress | The "That's not me" screen (Q13, C-704) | Counsel | Is it fine to post this screen as it is, organic and paid? |  |  | Post 6 is held. Posts 7 to 12 wait behind it. | Post 6 and every post after it (the profile picture only forms in order) |
 | L3 | Post 7 · Piece 4 · Sleep | The "from your phone" words | Counsel | Are these "from your phone" words fine to publish, organic and paid? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
 | L4 | Post 9 (paid) | Paid category for post 9 | Counsel | May post 9 run as a paid ad, 18+ only? |  |  | No paid ad for post 9. The organic post is not affected. | The paid version of post 9 only (the organic post is not blocked) |
-| L5 | Post 10 · Prove | Advertising the ₹499 call | Counsel | Which advertising rules apply to a call with a Nari health coach or counsellor, and is this wording fine, organic and paid? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| L5 | Post 10 · Prove | Advertising the first call and Founding 1,000 | Counsel | Which advertising rules apply to a call with a Nari health counsellor, and is this wording fine, organic and paid: ₹499 struck through as the regular price, "worth ₹1,197", the 48-hour refund promise and the cap of 1,000? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
 
 ### Harsha (Backend)
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
 | H1 | Post 3 · Blueprint | Compared only with her own usual | Harsha | On day 1, is the Chi score compared only with her own usual, with no comparison against other women anywhere? |  |  | The sentence stays out of the caption. Nothing is blocked. | Nothing: the post goes out with the fallback |
-| H2 | Post 7 · Piece 4 · Sleep | Sleep from the phone | Harsha | Is sleep time read from the phone and used in the score in the launch build on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
-| H3 | Post 7 · Piece 4 · Sleep | What moved her score | Harsha | Does the app show a line like this, saying what moved her score, on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
-| H4 | Post 4, 5, 8 | The one-line patterns | Harsha | Does the app write a one-line pattern like these for each part on day 1? |  |  | The first post whose line the app cannot write is held, and every post after it waits. | Post 4 and every post after it (the profile picture only forms in order) |
-| H5 | Post 12 · Launch | The three ways in | Harsha | Do all three ways in work on day 1? |  |  | Post 12 is not posted. | Post 12 only |
+| H2 | Post 7 · Piece 4 · Sleep | Sleep from the phone | Harsha | Is sleep time read from the phone and used in the score in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H3 | Post 7 · Piece 4 · Sleep | What moved her score | Harsha | Does the app show a line like this, saying what moved her score, on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H4 | Post 4, 5, 8 | The one-line patterns | Harsha | Does the app write a one-line pattern like these for each part on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H5 | Post 12 · Launch | The three ways in | Harsha | Do all three ways in work on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H6 | Post 10 · Prove | Founding 1,000 on day 1: number, refund, Plus months | Harsha | On launch day, do the founding number, the automatic ₹49 refund and the 3 free Plus months all work? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix it, reword the post or pull it. | Nothing: the post goes out with the fallback |
 
 ### Raju (QA)
 
@@ -54,103 +56,103 @@
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| N1 | Post 10 · Prove | The ₹499 call exists on launch day | Naresh | On launch day, does the ₹499 call exist with its windows, so a woman can book it? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| N1 | Post 10 · Prove | First calls within 48 hours | Naresh | From launch day, can the counsellors call every founding member within 48 hours of the app going live for her (up to 1,000), with windows she can pick? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
 | N2 | Post 12 · Launch | A next-day window | Naresh | On launch day, is there a next-day window she can pick? |  |  | Post 12 is not posted. | Post 12 only |
 
 ### Anji (Flutter app)
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A1 | Post 3 · Blueprint | "Your six" card | Anji | Is this card in the launch build on day 1? |  |  | Post 3 cannot show it. Post 3 is held and posts 4 to 12 wait. | Post 3 and every post after it (the profile picture only forms in order) |
-| A2 | Post 4, 5, 7, 8 | The five-word check-in rows | Anji | Does the check-in work this way in the launch build on day 1? |  |  | Post 4 is held. Every post after it waits. | Post 4 and every post after it (the profile picture only forms in order) |
-| A3 | Post 6 · Piece 3 · Stress | "That's not me" on what it learns | Anji | Is "That's not me" in the launch build on day 1? |  |  | Post 6 is held. Posts 7 to 12 wait. | Post 6 and every post after it (the profile picture only forms in order) |
-| A4 | Post 6 · Piece 3 · Stress | "What I'm still learning" | Anji | Is the "What I'm still learning" list in the launch build on day 1? |  |  | Post 6 is held. Posts 7 to 12 wait. | Post 6 and every post after it (the profile picture only forms in order) |
-| A5 | Post 7 · Piece 4 · Sleep | Sleep from the phone, and the pink line | Anji | Are both in the launch build on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait. | Post 7 and every post after it (the profile picture only forms in order) |
-| A6 | Post 9 · Piece 6 · Body | "Anything else today?" and "Your month" | Anji | Are both in the launch build on day 1? |  |  | Post 9 is held. Posts 10 to 12 wait. | Post 9 and every post after it (the profile picture only forms in order) |
-| A7 | Post 10 · Prove | The call card | Anji | Is this card in the launch build on day 1? |  |  | Post 10 is held. Posts 11 and 12 wait. | Post 10 and every post after it (the profile picture only forms in order) |
-| A8 | Post 12 · Launch | The start screen: three ways in | Anji | Is this screen, with these words, in the store build on day 1? |  |  | Post 12 is not posted. | Post 12 only |
+| A1 | Post 3 · Blueprint | "Your six" card | Anji | Is this card in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A2 | Post 4, 5, 7, 8 | The five-word check-in rows | Anji | Does the check-in work this way in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A3 | Post 6 · Piece 3 · Stress | "That's not me" on what it learns | Anji | Is "That's not me" in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A4 | Post 6 · Piece 3 · Stress | "What I'm still learning" | Anji | Is the "What I'm still learning" list in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A5 | Post 7 · Piece 4 · Sleep | Sleep from the phone, and the pink line | Anji | Are both in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A6 | Post 9 · Piece 6 · Body | "Anything else today?" and "Your month" | Anji | Are both in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A7 | Post 10 · Prove | The call card | Anji | Is this card in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A8 | Post 12 · Launch | The start screen: three ways in | Anji | Is this screen, with these words, in the store build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
 
 ## View 2: by post order
 
-### Post 1 · Tease
+### Post 1 · Tease · 28 Oct
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| M1 | Post 1 · Tease | Waitlist page live | Megh | Is the waitlist page live at a real address you can open on a phone? |  |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
-| M2 | Post 1 · Tease | The address nari1.com (C-694) | Megh | Do you own nari1.com now? |  |  | Tell the team which address the waitlist page uses instead. The series still waits for a live page. | Everything: no post goes out |
-| M3 | Post 1 to 12 | Grid test on a private account | Megh | The team posts the 12 tiles (slide 1 of each post, in order 1 to 12) on a private test account and sends you a screenshot. Does the profile show one joined picture like the one above? |  |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
+| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? |  |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
+| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) |  |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
 
-### Post 2 · Problem
+### Post 2 · Problem · 29 Oct
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
 | L1 | Post 2 (paid) | Paid use of "Who takes care of you?" | Counsel | May this line run as a paid ad? |  |  | Post 2 runs organic only. | The paid version of post 2 only (the organic post is not blocked) |
 
-### Post 3 · Blueprint
+### Post 3 · Blueprint · 30 Oct
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A1 | Post 3 · Blueprint | "Your six" card | Anji | Is this card in the launch build on day 1? |  |  | Post 3 cannot show it. Post 3 is held and posts 4 to 12 wait. | Post 3 and every post after it (the profile picture only forms in order) |
+| A1 | Post 3 · Blueprint | "Your six" card | Anji | Is this card in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
 | H1 | Post 3 · Blueprint | Compared only with her own usual | Harsha | On day 1, is the Chi score compared only with her own usual, with no comparison against other women anywhere? |  |  | The sentence stays out of the caption. Nothing is blocked. | Nothing: the post goes out with the fallback |
-| K1 | Post 3 · Blueprint | Caption sentence: compares you with you | CCO | May we add this sentence to post 3's caption? (Harsha must also confirm it is true.) |  |  | Post 3 goes out without it. It is already left out. | Nothing: the post goes out with the fallback |
-| K2 | Post 3 (paid) | Paid caption: what the Chi score is | CCO | May this wording run in a paid ad? |  |  | No paid ad for post 3. The organic post is not affected. | The paid version of post 3 only (the organic post is not blocked) |
+| K1 | Post 3 · Blueprint | Caption sentence: compares you with you | CCO | May we add this sentence to post 3's caption? (Harsha must also confirm it is true.) | REPORTED 28 Oct, scope unconfirmed: HELD |  | Post 3 goes out without it. It is already left out. | Nothing: the post goes out with the fallback |
+| K2 | Post 3 (paid) | Paid caption: what the Chi score is | CCO | May this wording run in a paid ad? | REPORTED 28 Oct, scope unconfirmed: HELD |  | No paid ad for post 3. The organic post is not affected. | The paid version of post 3 only (the organic post is not blocked) |
 
-### Post 4 · Piece 1 · Energy
+### Post 4 · Piece 1 · Energy · 31 Oct
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A2 | Post 4, 5, 7, 8 | The five-word check-in rows | Anji | Does the check-in work this way in the launch build on day 1? |  |  | Post 4 is held. Every post after it waits. | Post 4 and every post after it (the profile picture only forms in order) |
-| H4 | Post 4, 5, 8 | The one-line patterns | Harsha | Does the app write a one-line pattern like these for each part on day 1? |  |  | The first post whose line the app cannot write is held, and every post after it waits. | Post 4 and every post after it (the profile picture only forms in order) |
+| A2 | Post 4, 5, 7, 8 | The five-word check-in rows | Anji | Does the check-in work this way in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H4 | Post 4, 5, 8 | The one-line patterns | Harsha | Does the app write a one-line pattern like these for each part on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
 | R1 | Post 4 · Piece 1 · Energy | How long a daily check-in takes | Raju | Have you measured the median time a daily check-in takes? If yes, how many seconds? (reply R1: YES 18 seconds, or R1: NO) |  |  | Post 4 goes out with no time in the caption. | Nothing: the post goes out with the fallback |
 
 
-### Post 6 · Piece 3 · Stress
+### Post 6 · Piece 3 · Stress · 2 Nov
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A3 | Post 6 · Piece 3 · Stress | "That's not me" on what it learns | Anji | Is "That's not me" in the launch build on day 1? |  |  | Post 6 is held. Posts 7 to 12 wait. | Post 6 and every post after it (the profile picture only forms in order) |
-| A4 | Post 6 · Piece 3 · Stress | "What I'm still learning" | Anji | Is the "What I'm still learning" list in the launch build on day 1? |  |  | Post 6 is held. Posts 7 to 12 wait. | Post 6 and every post after it (the profile picture only forms in order) |
+| A3 | Post 6 · Piece 3 · Stress | "That's not me" on what it learns | Anji | Is "That's not me" in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| A4 | Post 6 · Piece 3 · Stress | "What I'm still learning" | Anji | Is the "What I'm still learning" list in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
 | L2 | Post 6 · Piece 3 · Stress | The "That's not me" screen (Q13, C-704) | Counsel | Is it fine to post this screen as it is, organic and paid? |  |  | Post 6 is held. Posts 7 to 12 wait behind it. | Post 6 and every post after it (the profile picture only forms in order) |
 
-### Post 7 · Piece 4 · Sleep
+### Post 7 · Piece 4 · Sleep · 3 Nov
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A5 | Post 7 · Piece 4 · Sleep | Sleep from the phone, and the pink line | Anji | Are both in the launch build on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait. | Post 7 and every post after it (the profile picture only forms in order) |
-| H2 | Post 7 · Piece 4 · Sleep | Sleep from the phone | Harsha | Is sleep time read from the phone and used in the score in the launch build on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
-| H3 | Post 7 · Piece 4 · Sleep | What moved her score | Harsha | Does the app show a line like this, saying what moved her score, on day 1? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
+| A5 | Post 7 · Piece 4 · Sleep | Sleep from the phone, and the pink line | Anji | Are both in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H2 | Post 7 · Piece 4 · Sleep | Sleep from the phone | Harsha | Is sleep time read from the phone and used in the score in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H3 | Post 7 · Piece 4 · Sleep | What moved her score | Harsha | Does the app show a line like this, saying what moved her score, on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
 | L3 | Post 7 · Piece 4 · Sleep | The "from your phone" words | Counsel | Are these "from your phone" words fine to publish, organic and paid? |  |  | Post 7 is held. Posts 8 to 12 wait behind it. | Post 7 and every post after it (the profile picture only forms in order) |
 
 
-### Post 9 · Piece 6 · Body
+### Post 9 · Piece 6 · Body · 5 Nov
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A6 | Post 9 · Piece 6 · Body | "Anything else today?" and "Your month" | Anji | Are both in the launch build on day 1? |  |  | Post 9 is held. Posts 10 to 12 wait. | Post 9 and every post after it (the profile picture only forms in order) |
-| K3 | Post 9 · Piece 6 · Body | Cycle sentence on the organic slide | CCO | May this sentence appear on an organic post, 18+ only? |  |  | We post the paid-safe slides 2 and 3 instead. They carry no cycle sentence. | Nothing: the post goes out with the fallback |
+| A6 | Post 9 · Piece 6 · Body | "Anything else today?" and "Your month" | Anji | Are both in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| K3 | Post 9 · Piece 6 · Body | Cycle sentence on the organic slide | CCO | May this sentence appear on an organic post, 18+ only? | REPORTED 28 Oct, scope unconfirmed: HELD |  | We post the paid-safe slides 2 and 3 instead. They carry no cycle sentence. | Nothing: the post goes out with the fallback |
 | L4 | Post 9 (paid) | Paid category for post 9 | Counsel | May post 9 run as a paid ad, 18+ only? |  |  | No paid ad for post 9. The organic post is not affected. | The paid version of post 9 only (the organic post is not blocked) |
 
-### Post 10 · Prove
+### Post 10 · Prove · 6 Nov
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A7 | Post 10 · Prove | The call card | Anji | Is this card in the launch build on day 1? |  |  | Post 10 is held. Posts 11 and 12 wait. | Post 10 and every post after it (the profile picture only forms in order) |
-| K4 | Post 10 · Prove | The ₹499 call: who calls, and the 30 minutes | CCO | May we describe the ₹499 call this way in public: a Nari health coach or counsellor (not a doctor; they do not diagnose or prescribe) and 30 minutes? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
-| L5 | Post 10 · Prove | Advertising the ₹499 call | Counsel | Which advertising rules apply to a call with a Nari health coach or counsellor, and is this wording fine, organic and paid? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
-| N1 | Post 10 · Prove | The ₹499 call exists on launch day | Naresh | On launch day, does the ₹499 call exist with its windows, so a woman can book it? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| A7 | Post 10 · Prove | The call card | Anji | Is this card in the launch build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H6 | Post 10 · Prove | Founding 1,000 on day 1: number, refund, Plus months | Harsha | On launch day, do the founding number, the automatic ₹49 refund and the 3 free Plus months all work? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix it, reword the post or pull it. | Nothing: the post goes out with the fallback |
+| K4 | Post 10 · Prove | The first call: who calls, the 30 minutes, "stays with you" | CCO | May we describe the first call this way in public: a Nari health counsellor (not a doctor; they do not diagnose or prescribe), 30 minutes, and "stays with you: through the doctor, the tests and what comes next"? | REPORTED 28 Oct, scope unconfirmed: HELD |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| L5 | Post 10 · Prove | Advertising the first call and Founding 1,000 | Counsel | Which advertising rules apply to a call with a Nari health counsellor, and is this wording fine, organic and paid: ₹499 struck through as the regular price, "worth ₹1,197", the 48-hour refund promise and the cap of 1,000? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
+| N1 | Post 10 · Prove | First calls within 48 hours | Naresh | From launch day, can the counsellors call every founding member within 48 hours of the app going live for her (up to 1,000), with windows she can pick? |  |  | Post 10 is held. Posts 11 and 12 wait behind it. | Post 10 and every post after it (the profile picture only forms in order) |
 
-### Post 11 · Invite
-
-| ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
-|---|---|---|---|---|---|---|---|---|
-| M4 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page (and later the store page)? |  |  | Hold post 11 until it does. | Post 11 and every post after it (the profile picture only forms in order) |
-
-### Post 12 · Launch
+### Post 11 · Invite · 7 Nov
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| A8 | Post 12 · Launch | The start screen: three ways in | Anji | Is this screen, with these words, in the store build on day 1? |  |  | Post 12 is not posted. | Post 12 only |
-| H5 | Post 12 · Launch | The three ways in | Harsha | Do all three ways in work on day 1? |  |  | Post 12 is not posted. | Post 12 only |
-| M5 | Post 12 · Launch | Store links | Megh | Are the App Store and Play Store links live? |  |  | Do not post 12. | Post 12 only |
-| M6 | Post 12 · Launch | Launch date | Megh | What is the launch date? (a date, or NOT YET) |  |  | NOT YET: post 12 waits. | Post 12 only |
+| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? |  |  | Hold post 11 until it does. | Post 11 and every post after it (the profile picture only forms in order) |
+
+### Post 12 · Launch · 8 Nov
+
+| ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
+|---|---|---|---|---|---|---|---|---|
+| A8 | Post 12 · Launch | The start screen: three ways in | Anji | Is this screen, with these words, in the store build on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| H5 | Post 12 · Launch | The three ways in | Harsha | Do all three ways in work on day 1? | FYI (does not hold) |  | FYI only: posts do not wait for this (Megh, 28 Oct 2026). If the answer is NO, Megh decides whether to fix the screen or pull the post. | Nothing: the post goes out with the fallback |
+| M4 | Post 12 · Launch | Store links (post 12 does not wait for them) | Megh | When the App Store and Play Store links are live, add them to the nari1.com page and keep the bio link on nari1.com (it carries the founding reserve). Tell the team lead. | FYI (does not hold) |  | Nothing is held: post 12 goes out with the bio link on nari1.com. | Nothing: the post goes out with the fallback |
+| M5 | Post 12 · Launch | Date for the post 12 caption (optional) | Megh | Do you want a launch date in the caption of post 12? (a date, or NO) | FYI (does not hold) |  | Post 12 goes out with the caption that has no date line. | Nothing: the post goes out with the fallback |
 | N2 | Post 12 · Launch | A next-day window | Naresh | On launch day, is there a next-day window she can pick? |  |  | Post 12 is not posted. | Post 12 only |
