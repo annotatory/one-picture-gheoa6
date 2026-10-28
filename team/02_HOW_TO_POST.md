@@ -10,9 +10,9 @@ Read this once before your first post. Replace "P05" with the post number you ar
 | Instagram Story | INSTAGRAM_story_9x16 (very tall) | the one story file |
 | Facebook | LINKEDIN_FACEBOOK_1x1 (square) | all the slides, in order |
 | LinkedIn | LINKEDIN_FACEBOOK_1x1 (square) | all the slides, in order |
-| X | X_LINKEDIN_wide_16x9 (wide, landscape) | the one wide file |
+| X | X_wide_16x9 (wide, landscape) | the one wide file |
 
-LinkedIn uses the **square** folder, not the wide one. The wide folder is for X. Copy only the folder for the platform you are posting to. When you pick pictures, pick them from the folder in your Files or Drive app if the platform lets you; if you must use the camera roll, check the shape (tall, square or wide) matches the table before you post.
+LinkedIn uses the **square** folder (LINKEDIN_FACEBOOK_1x1), not the wide one. The wide folder (X_wide_16x9) is for X only. Copy only the folder for the platform you are posting to. When you pick pictures, pick them from the folder in your Files or Drive app if the platform lets you; if you must use the camera roll, check the shape (tall, square or wide) matches the table before you post.
 
 ## The time
 
@@ -25,7 +25,7 @@ Post everything for the day between **7:30 and 9:30 pm India time**, in this ord
 3. Open today's post folder in 04_POSTS. The folder name ends in the status (for example P05_Focus__GO).
 4. Open STATUS.txt. It has a **card for each platform** with the account, the exact files in the order to pick them, the caption file and a ready log row. If it says GO-WITH-FALLBACK, use the fallback files it names.
 5. Copy the files to your phone: the folder for each platform, plus caption.txt, caption_for_X.txt and alt_text.txt.
-6. Look at yesterday's reach and write it in the log (see 06_COMMENTS_AND_SAFETY, "The stop rule").
+6. Look at yesterday's Instagram reach (see 06_COMMENTS_AND_SAFETY, "The stop rule"). You will write it in today's Instagram feed log row. Posts 1 and 2 only record reach; the comparison starts at post 3.
 
 ## Instagram feed (a carousel of slides)
 
@@ -35,7 +35,7 @@ Post everything for the day between **7:30 and 9:30 pm India time**, in this ord
 4. Tap **Next**. Leave everything alone: no filters, music, stickers, text, hashtags, people tags, product tags or location. Tap **Next**.
 5. **Caption:** open caption.txt, select all, copy. In Instagram tap the caption box and paste. Do not change a word.
 6. **Alt text:** scroll down, tap **Advanced settings**, then **Write alt text**. For each picture paste the line from the matching block of alt_text.txt (PICTURE 1 for the first picture, and so on). Tap **Done**. If a box cuts a line off, paste what fits and tell Megh.
-7. Leave **Audience**, **Also share to Facebook** and **Threads** as they are (off). Do not change any other option.
+7. Leave **Audience** alone. **Also share to Facebook** and **Threads** must be **off**: if they are on in your app, switch them off before you share. Do not change any other option.
 8. Tap **Share**.
 
 ## Instagram Story
@@ -48,20 +48,20 @@ Post everything for the day between **7:30 and 9:30 pm India time**, in this ord
 
 1. Open Facebook. Tap **Photo** in the post box.
 2. Pick the slides from LINKEDIN_FACEBOOK_1x1 in order, slide 1 first.
-3. Paste caption.txt. If you can edit a photo and see **Alt text**, paste the matching block. If not, skip.
+3. Paste caption.txt. If you can edit a photo and see **Alt text**, paste the matching line (the line under PICTURE 1 for picture 1, and so on). If not, skip.
 4. Tap **Post**.
 
 ## LinkedIn (square pictures)
 
 1. Open LinkedIn. Tap **Post**.
 2. Tap the picture button. Pick the slides from LINKEDIN_FACEBOOK_1x1 **in order, slide 1 first.**
-3. Paste caption.txt. If an **Alt text** button shows when you tap a picture, paste the matching block. If not, skip.
+3. Paste caption.txt. If an **Alt text** button shows when you tap a picture, paste the matching line. If not, skip.
 4. Tap **Post**.
 
 ## X (one wide picture)
 
 1. Open X. Tap the new post button.
-2. Tap the picture button and pick the wide file from X_LINKEDIN_wide_16x9 (P05_wide.png).
+2. Tap the picture button and pick the wide file from X_wide_16x9 (P05_wide.png).
 3. Paste **caption_for_X.txt**. It is the caption cut to fit X. When the caption already fits, the two files are the same, and that is fine. If the picture has an alt-text option (Add description), paste the "Story and wide picture" line from alt_text.txt.
 4. Tap **Post**.
 
@@ -78,7 +78,7 @@ The file has one block per picture: "PICTURE 1 of 3", then the line to paste on 
 | Facebook and LinkedIn | Open the post. Check slide order and the caption. | Add the log row. |
 | X | Open the post. Check the picture and the caption. | Add the log row. |
 
-**The log.** Add one row to **07_POSTED_LOG.csv** per platform, after the checks. Use the ready row from STATUS.txt and fill in the date and time, the link and your name. Format: date and time as 2026-11-12 20:05 (India time); platform exactly as written in the card; link is the web link to the live post (for a Story, write "story, no link"); no commas in the issue column (use semicolons), or write none. Example row:
+**The log.** Add one row to **07_POSTED_LOG.csv** per platform, after the checks. Copy the ready row from the card in STATUS.txt and fill in the time you posted, the link and your name. Format: date and time as 2026-11-12 20:05 (India time); platform exactly as written in the card; no commas in the issue column (use semicolons). **The link:** open the live post, then Instagram: three dots, Link; Facebook: Share, Copy link; LinkedIn: three dots, Copy link to post; X: Share, Copy link. For a Story write "story, no link". **Reach:** in today's Instagram feed row write yesterday's reach in the issue column, like `none; yesterday reach 1234`. **Where to write the log:** open the CSV in a spreadsheet app (for example Google Sheets, File, Import) on your phone or laptop, or use a shared sheet Megh gives you with the same columns. Example row:
 
 ```
 5,Instagram feed,2026-11-12 20:05,https://www.instagram.com/p/EXAMPLE/,Priya,none

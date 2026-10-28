@@ -28,13 +28,13 @@ Nari 1 is a women's health app. People may write personal things. Be warm, short
 
 ## If someone sounds in distress (in a comment or a message)
 
-Examples: she says she wants to hurt herself, she cannot go on, she is in danger.
+Examples: she says she wants to hurt herself, she cannot go on, she is in danger. **Quiet or indirect wording counts too**, for example "I don't want to be here anymore" or "what is the point". When in doubt, treat it as distress.
 
-1. **Reply once, with the helpline lines below and nothing else.** Copy them exactly. Do not write your own words, do not add advice, do not add emoji.
+1. **Reply once, with the helpline lines below and nothing else.** Reply under her comment, or in the message if she wrote privately. Do not make a new post. The lines are pre-approved: they are copied from the app. Copy them exactly. Do not write your own words, do not add advice, do not add emoji.
 2. **Tell Megh straight away** (call or message, do not wait for the end of the day). Send a screenshot. Megh's contact is in the "Right now" box at the top of 00_START_HERE.
 3. Do not delete the comment or message. Do not keep chatting. Do not promise anything.
 
-These lines are copied character for character from the app's own crisis list (`apps/mobile/lib/core/utils/constants/crisis_helplines.dart`, the list every crisis screen in the app shows):
+These lines are copied character for character from the app's own crisis list, the list every crisis screen in the app shows:
 
 | Name | Number | When |
 |---|---|---|
@@ -67,7 +67,7 @@ Stop posting and tell Megh **before the next post** if any of these happens:
 
 - Comments complain about a post, or several people react badly to the same thing.
 - A platform sends a warning, removes a post, or limits the account.
-- Reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post today's post, open yesterday's Instagram post, tap **View insights**, and read **Accounts reached** (this needs a professional account; if you do not see it, tell Megh). Write the number in the issue column of the POSTED_LOG the next day, like "reach 1234". Compare it with the post before. This rule is a default to review after week one, not a result from our own data.
+- Reach on a post is much lower than on the post before it (as a first rule: less than half). **How to check:** before you post today's post, open yesterday's Instagram post, tap **View insights**, and read **Accounts reached** (this needs a professional account; if you do not see it, tell Megh). Write the number in the issue column of today's Instagram feed row in the POSTED_LOG, like `none; yesterday reach 1234`. Compare it with the number from the day before in the log. Posts 1 and 2 only record the number; the comparison starts at post 3. If it is less than half, **do not post today**: tell Megh, and wait for Megh's answer. If Megh has not answered by 9:30 pm, do not post that day. This rule is a default to review after week one, not a result from our own data.
 - Anything in a comment or message that you did not expect or do not understand.
 
 Megh decides whether the series continues.

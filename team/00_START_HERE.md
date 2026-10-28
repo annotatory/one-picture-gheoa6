@@ -14,7 +14,7 @@
 
 ## The 6 rules
 
-1. **Post in order, 1 to 12, one a day.** Never skip a post. Never change the order. Before you post today's, check that yesterday's post is in **07_POSTED_LOG.csv**. If it is not, stop and ask Megh.
+1. **Post in order, 1 to 12, one a day.** Never skip a post. Never change the order. Before you post today's, check that yesterday's post is in **07_POSTED_LOG.csv**, or that the **Right now** box above says it is live. If neither, stop and ask Megh. If you are a day late, post the missed post that day and carry on: never post two on one day, and tell Megh.
 2. **Post the slides of a post in order.** Slide 1 first, then 2, then 3.
 3. **Never edit a picture or a caption.** Use every file exactly as it is. Copy and paste, do not retype.
 4. **Never post anything marked STOP or HELD.** If the folder name or the STATUS says STOP, nothing from it goes out. A post is GO only when its own STATUS says GO: the status already counts the start gates (every post says STOP while they are open).
@@ -32,6 +32,7 @@
 ## Things on the pictures that are meant to be there
 
 - A small pill saying **Sample data** on slides that show an app screen. The numbers on those screens are example data. Leave it.
+- Posts 4 to 9 say **Piece 1 of 6** to **Piece 6 of 6**. These piece numbers are separate from the post numbers (post 5 is Piece 2). That is correct.
 - On the first slide of posts 4 to 9, shapes are **cut off at the edge on purpose**. Each first slide is one piece of the big profile picture. Do not crop or "fix" them. Check only that you picked the right file, in the right order.
 
 ## Where things are
@@ -50,4 +51,4 @@ The .md and .html files are the same text: read whichever opens on your phone. T
 
 ## Your first job
 
-Open **03_GRID_TEST** and do the test. Nothing goes live until Megh says the test worked and the waitlist page is live. You post from the phone app of each platform: no tool is connected to any account.
+The start gates are still open (see the Right now box). Open **03_GRID_TEST** and do the test. Nothing goes live until Megh says the test worked and the waitlist page is live. If the Right now box still has blanks for Megh's contact or the accounts, do not post: ask Megh to fill them. You post from the phone app of each platform: no tool is connected to any account.
