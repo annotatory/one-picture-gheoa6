@@ -7,7 +7,7 @@
 | Start gates | OPEN: M1 Waitlist page live on nari1.com, M2 Grid test on a spare private account. Every post says STOP until they are cleared. |
 | Launch day (all 12 on Instagram) | WAITING. All 12 posts go out together on Instagram on one day, in order 1 to 12. Nothing goes out, on any platform, until every post is cleared. Still open: M1 (Megh), M2 (Megh), K4 (CCO), M3 (Megh). |
 | Last post confirmed live | none yet |
-| Launch day (planned) | Wed 28 Oct 2026 |
+| Launch day (planned) | Fri 6 Nov 2026 |
 | Team lead (posts and owns the logs) | Megh names the team lead and writes it here before you start |
 | Posting window (default, a test) | 7:30 to 9:30 pm India time |
 | Megh's contact (the only person you ask) | Ask Megh how he wants to be reached, and write it here before you start |
@@ -15,7 +15,7 @@
 
 **What this is.** Twelve social posts that lead up to the launch of Nari 1, a women's health app. Each post is a set of pictures (slides) that go out together. On Instagram all twelve go out on one launch day, in one sitting, from post 1 to post 12: there the twelve posts join into one big picture on the profile, which is why the order matters and why they go out together. On Facebook, LinkedIn and X they go out one a day, in the same order, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded. Posts after the 12 are paced: Megh sends that plan. You are the **team lead**: you post them by hand from the phone app, exactly as prepared, and you own the two logs (07_POSTED_LOG and 08_ENGAGEMENT_LOG). Megh decides everything else. No tool or app is connected to any account: nobody posts through software.
 
-**Dates.** Instagram: all 12 posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Planned launch day: Wed 28 Oct 2026. Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on Wed 28 Oct 2026, post 12 on Sun 8 Nov 2026), so follower feeds there are not flooded (28 Oct 2026, night). The day waits until every post is cleared: if any post says STOP-UNTIL, nothing goes out, and the launch day moves to the first day all 12 are cleared (the Facebook, LinkedIn and X dates move with it). Posts after the 12 are paced; Megh sets that plan.
+**Dates.** Instagram: all 12 posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Planned launch day: Fri 6 Nov 2026. Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on Fri 6 Nov 2026, post 12 on Tue 17 Nov 2026), so follower feeds there are not flooded (28 Oct 2026, night). The day waits until every post is cleared: if any post says STOP-UNTIL, nothing goes out, and the launch day moves to the first day all 12 are cleared (the Facebook, LinkedIn and X dates move with it). Posts after the 12 are paced; Megh sets that plan.
 
 ## The 6 rules
 
