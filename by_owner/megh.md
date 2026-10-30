@@ -67,8 +67,6 @@ Pictures: images/organic/4x5/p12_launch_s3.png
 
 ## M5 · Post 12 · Launch · Date for the post 12 caption (optional)
 
-**CLEARED 30 Oct 2026: 6 November**
-
 **FYI: posts do not wait for this.**
 
 Pictures: images/organic/4x5/p12_launch_s1.png
