@@ -31,13 +31,13 @@ Written 28 Oct 2026. Four jobs stand between today and post 1: put the waitlist 
 **Step 2. Set up the form relay (the thing that stores the emails).** Recommended for today: the Cloudflare Worker draft. It stores the email, the start choice and the wish, and counts spots.
 
 1. Open the Cloudflare dashboard and sign in (create the free account with your own email if you have none). Go to **Workers & Pages**, then **Create**, then **Workers**, choose the **Hello World** template, name it `nari1-waitlist`, and click **Deploy**.
-2. Click **Edit code**. Select everything in the editor, delete it, and paste the full contents of `/Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/build/relay/relay_worker.mjs`. Click **Deploy**.
+2. Click **Edit code**. Select everything in the editor, delete it, and paste the full contents of `/Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/kit_src/relay/relay_worker.mjs`. Click **Deploy**.
 3. In the left menu go to **Storage & databases**, then **KV**, then **Create a namespace**, name it `nari1-waitlist`.
 4. Go back to the Worker, then **Settings**, then **Bindings**, then **Add**, choose **KV namespace**. Variable name: `WAITLIST` (exactly). Pick the namespace you made. Save.
 5. Still in **Settings**, open **Variables and secrets**, then **Add**. Name `CAP`, value = the number of founding spots (the brand deck says 100; it is your number). Save and deploy.
 6. Copy the Worker's address (it looks like `https://nari1-waitlist.<something>.workers.dev`). Open it with `/count` added at the end in your browser. You should see `{"left":100,"cap":100}` (with your number). Send the series seat the address (without `/count`): that is the relay URL.
 
-The draft and its test are in `/Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/build/relay/`: eleven tests pass against a mock store (join, duplicate, bad email, oversize, wrong website refused, preflight, at-cap, store failure). It is **not tested on Cloudflare itself**: step 2.6 is that test.
+The draft and its test are in `/Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/kit_src/relay/`: eleven tests pass against a mock store (join, duplicate, bad email, oversize, wrong website refused, preflight, at-cap, store failure). It is **not tested on Cloudflare itself**: step 2.6 is that test.
 
 **One caution for Counsel (add one line to the message you send them):** until Harsha's own relay exists, the waitlist emails sit in Cloudflare's store, outside Nily's servers. That is normal for a waitlist with a consent line, but it is personal data: ask Counsel to confirm it is fine for the waitlist, and to say how long we keep it. The alternative is Harsha building the relay on Nily's own database (lane L7b): cleaner for data, but the page then waits for him.
 
@@ -64,7 +64,7 @@ It writes `out/wishlist.html` (and a report). Only that file is published. The p
 **Message to Harsha, if you want him to do step 2 (paste as it is):**
 
 ```
-Hi Harsha, I need the form relay for the Nari 1 waitlist page live today so post 1 can go. Contract: GET /count returns {"left": int, "cap": int}; POST /join takes {"email","start","wish","tags","copy"} and returns 2xx, or 409 if the email already joined. The page is on https://nari1.com, so the relay must answer CORS for that origin (and https://www.nari1.com), including the OPTIONS preflight. A draft that does this (Cloudflare Worker plus KV) is at /Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/build/relay/relay_worker.mjs. Use it as it is, or build it on our database if you can do that today. Please send me the relay address when it answers /count.
+Hi Harsha, I need the form relay for the Nari 1 waitlist page live today so post 1 can go. Contract: GET /count returns {"left": int, "cap": int}; POST /join takes {"email","start","wish","tags","copy"} and returns 2xx, or 409 if the email already joined. The page is on https://nari1.com, so the relay must answer CORS for that origin (and https://www.nari1.com), including the OPTIONS preflight. A draft that does this (Cloudflare Worker plus KV) is at /Users/amr/Desktop/01_NILY/03_GTM_Marketing/social_series_2026-10-28/kit_src/relay/relay_worker.mjs. Use it as it is, or build it on our database if you can do that today. Please send me the relay address when it answers /count.
 ```
 
 **Then, after the page is live:** set the Instagram bio link to the page's address (the plan files do not name a path: if the page is the whole home page, that is `nari1.com`; if you put it on a path, use that path). Open the bio link on your phone to check it. Tell the series seat `M3 done`. M3 only matters from post 11 on.

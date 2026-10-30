@@ -2,7 +2,7 @@
 
 ## Launch-day checklist: Instagram, Fri 6 Nov 2026
 
-Do these in order, and only when every row of **01_POSTING_CALENDAR** says GO or GO-FALLBACK (still open today: K4 (CCO)).
+Do these in order, and only when every row of **01_POSTING_CALENDAR** says GO or GO-FALLBACK (every row does today).
 
 1. **Bio link.** Set the Instagram bio link to https://nari1.com before post 1.
 2. **Founding spots.** Open https://nari1.com and check that founding spots are still open. If all 1,000 are taken, posts 10 to 12 cannot go, so nothing goes out: tell Megh. Check again before posts 10, 11 and 12 go out on Facebook, LinkedIn and X (days 10 to 12). Never type a number of spots anywhere.
@@ -22,7 +22,7 @@ Then Instagram Stories 1 to 12, then post 1 on Facebook, LinkedIn and X (one a d
 | | |
 |---|---|
 | Start gates | CLEARED on 2026-10-30 (M1: live since 28 Oct 2026, checked 30 Oct; M2: dropped as a blocker, guide 28 Oct). |
-| Launch day (all 12 on Instagram) | WAITING. All 12 posts go out together on Instagram on one day, in order 1 to 12. Nothing goes out, on any platform, until every post is cleared. Still open: K4 (CCO). |
+| Launch day (all 12 on Instagram) | READY. Instagram: all 12 posts in one sitting, in order 1 to 12 (launch day planned Fri 6 Nov 2026). Facebook, LinkedIn and X: post 1 on the launch day, then one a day to post 12. |
 | Last post confirmed live | none yet |
 | Launch day (planned) | Fri 6 Nov 2026 |
 | Team lead (posts and owns the logs) | Megh names the team lead and writes it here before you start |
@@ -74,4 +74,4 @@ The .md and .html files are the same text: read whichever opens on your phone. T
 
 ## Your first job
 
-The start gates are cleared (the Right now box says how), so **do not do the grid test**. The launch day still waits (see the Right now box): all 12 posts go out together on Instagram, so **do not post anything** until every row of **01_POSTING_CALENDAR** says GO or GO-FALLBACK. If the Right now box still has blanks for Megh's contact or the accounts, ask Megh to fill them. You post by hand from the phone app of each platform: no tool is connected to any account.
+The start gates are cleared (the Right now box says how), so **do not do the grid test**. Every post is cleared: on the launch day, follow **01_POSTING_CALENDAR** and post all 12 on Instagram in one sitting, in rounds (the Instagram feed for posts 1 to 12 first, then Stories), then post 1 on Facebook, LinkedIn and X; after that, one post a day on Facebook, LinkedIn and X, up to post 12. Read each post's STATUS.txt as you go. If the Right now box still has blanks for Megh's contact or the accounts, do not post: ask Megh to fill them. You post by hand from the phone app of each platform: no tool is connected to any account.
