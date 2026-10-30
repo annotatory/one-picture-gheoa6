@@ -1,11 +1,28 @@
 # START HERE: Nari 1 launch posts
 
+## Launch-day checklist: Instagram, Fri 6 Nov 2026
+
+Do these in order, and only when every row of **01_POSTING_CALENDAR** says GO or GO-FALLBACK (still open today: K4 (CCO)).
+
+1. **Bio link.** Set the Instagram bio link to https://nari1.com before post 1.
+2. **Founding spots.** Open https://nari1.com and check that founding spots are still open. If all 1,000 are taken, posts 10 to 12 cannot go, so nothing goes out: tell Megh. Check again before posts 10, 11 and 12 go out on Facebook, LinkedIn and X (days 10 to 12). Never type a number of spots anywhere.
+3. **Grid order.** Post the Instagram feed in the kit's order: post 1 first, then 2, 3 and so on up to 12, each only after the one before is live. Instagram puts the newest post top left, so the 12 tiles land like this and post 12 ends top left:
+
+| Instagram grid | Left | Middle | Right |
+|---|---|---|---|
+| Row 1 (top) | 12 Launch | 11 Invite | 10 Call |
+| Row 2 | 9 Body | 8 Mood | 7 Sleep |
+| Row 3 | 6 Stress | 5 Focus | 4 Energy |
+| Row 4 (bottom) | 3 Blueprint | 2 Problem | 1 Tease |
+
+Then Instagram Stories 1 to 12, then post 1 on Facebook, LinkedIn and X (one a day after that).
+
 ## Right now
 
 | | |
 |---|---|
-| Start gates | OPEN: M1 Waitlist page live on nari1.com, M2 Grid test on a spare private account. Every post says STOP until they are cleared. |
-| Launch day (all 12 on Instagram) | WAITING. All 12 posts go out together on Instagram on one day, in order 1 to 12. Nothing goes out, on any platform, until every post is cleared. Still open: M1 (Megh), M2 (Megh), K4 (CCO), M3 (Megh). |
+| Start gates | CLEARED on 2026-10-30 (M1: live since 28 Oct 2026, checked 30 Oct; M2: dropped as a blocker, guide 28 Oct). |
+| Launch day (all 12 on Instagram) | WAITING. All 12 posts go out together on Instagram on one day, in order 1 to 12. Nothing goes out, on any platform, until every post is cleared. Still open: K4 (CCO). |
 | Last post confirmed live | none yet |
 | Launch day (planned) | Fri 6 Nov 2026 |
 | Team lead (posts and owns the logs) | Megh names the team lead and writes it here before you start |
@@ -57,4 +74,4 @@ The .md and .html files are the same text: read whichever opens on your phone. T
 
 ## Your first job
 
-The start gates are still open (see the Right now box). Open **03_GRID_TEST** and do the test on the spare private account: post the 12 tiles by hand in order, take a screenshot, send it to Megh, and delete the spare account when Megh says JOINED. Nothing goes live on the real accounts until Megh says the test worked and the waitlist page is live. If the Right now box still has blanks for Megh's contact or the accounts, do not post: ask Megh to fill them. You post by hand from the phone app of each platform: no tool is connected to any account.
+The start gates are cleared (the Right now box says how), so **do not do the grid test**. The launch day still waits (see the Right now box): all 12 posts go out together on Instagram, so **do not post anything** until every row of **01_POSTING_CALENDAR** says GO or GO-FALLBACK. If the Right now box still has blanks for Megh's contact or the accounts, ask Megh to fill them. You post by hand from the phone app of each platform: no tool is connected to any account.

@@ -17,6 +17,8 @@ Answer YES, NO or CHANGE-TO followed by your wording.
 
 ## M1 · Post 1 · Tease · Waitlist page live on nari1.com
 
+**CLEARED 30 Oct 2026: live since 28 Oct 2026, checked 30 Oct**
+
 Pictures: images/organic/4x5/p01_tease_s1.png
 
 > The first post goes out only when the waitlist page is live on nari1.com (the domain is owned; ledger C-694 is closed). The page is now the Founding 1,000 page: she reserves for ₹49 (₹499 struck through) through Razorpay, sees the real count of founding spots, and gets "Founding member #n". It is being built in a separate session; Megh creates the Razorpay payment page. The go-live steps come with that page (MEGH_GO_LIVE_GUIDE section 1 describes the older free form).
@@ -29,6 +31,8 @@ Pictures: images/organic/4x5/p01_tease_s1.png
 
 ## M2 · Post 1 to 12 · Grid test on a spare private account
 
+**CLEARED 30 Oct 2026: dropped as a blocker, guide 28 Oct**
+
 Pictures: images/grid/profile_grid_after_12.png
 
 > Instagram shows a 4:5 post as a narrower tile on the profile. The layout assumes about 34 px is trimmed from each side so the petals join across tiles. That is arithmetic, not confirmed. So the team lead posts the 12 tiles by hand, in order, from a phone, to a spare PRIVATE account (the second account Megh approved, used only for this), looks at the grid, takes a screenshot, then deletes that account. No tool connection is needed.
@@ -40,6 +44,8 @@ Pictures: images/grid/profile_grid_after_12.png
 - What it blocks: Everything: no post goes out
 
 ## M3 · Post 11 · Invite · Bio link works
+
+**CLEARED 30 Oct 2026: Megh, 30 Oct 2026: release all 12 as the grid; the bio link becomes a launch-day step, not a hold**
 
 Pictures: images/organic/4x5/p11_invite_s2.png
 

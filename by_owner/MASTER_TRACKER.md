@@ -2,7 +2,7 @@
 
 31 questions, 7 owners. Status and answer date come from the team kit (refresh_kit.py). Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform.
 
-**CCO sign-off reported, scope unconfirmed (28 Oct 2026).** Megh reported that the CCO signed off the social packet. Nothing is cleared from that sentence. It could plausibly cover: K1 (post 3 caption sentence), K3 (post 9 slide 3, the cycle sentence), K4 (post 10: the Nari health counsellor words, the 30 minutes and the line on staying with her through the doctor and the tests), and K2 (the paid Chi-score caption). Those four stay HELD until Megh or the CCO names the exact items signed. K1, K2 and K3 cost nothing while held: post 3 and post 9 go out with their prepared fallbacks and the paid post 3 waits. K4 does not: it holds post 10, and since all 12 posts go out on Instagram on one launch day, it holds the launch day. Open questions that hold the launch day now: M1 (Megh), M2 (Megh), M3 (Megh), K4 (CCO). To clear: python3 -I refresh_kit.py --clear K1 K2 K3 K4.
+**CCO sign-off reported, scope unconfirmed (28 Oct 2026).** Megh reported that the CCO signed off the social packet. Nothing is cleared from that sentence. It could plausibly cover: K1 (post 3 caption sentence), K3 (post 9 slide 3, the cycle sentence), K4 (post 10: the Nari health counsellor words, the 30 minutes and the line on staying with her through the doctor and the tests), and K2 (the paid Chi-score caption). Those four stay HELD until Megh or the CCO names the exact items signed. K1, K2 and K3 cost nothing while held: post 3 and post 9 go out with their prepared fallbacks and the paid post 3 waits. K4 does not: it holds post 10, and since all 12 posts go out on Instagram on one launch day, it holds the launch day. Open questions that hold the launch day now: K4 (CCO). To clear: python3 -I refresh_kit.py --clear K1 K2 K3 K4.
 
 ## View 1: by owner
 
@@ -10,9 +10,9 @@
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? | OPEN |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
-| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) | OPEN |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
-| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? | OPEN |  | Hold post 11 until it does. With all 12 posts going out on Instagram on one day, the launch day waits for it. | Post 11 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram) |
+| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? | CLEARED 30 Oct 2026: live since 28 Oct 2026, checked 30 Oct | 30 Oct 2026 | Do not start the series. Nothing goes out. | Everything: no post goes out |
+| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) | CLEARED 30 Oct 2026: dropped as a blocker, guide 28 Oct | 30 Oct 2026 | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
+| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? | CLEARED 30 Oct 2026: Megh, 30 Oct 2026: release all 12 as the grid; the bio link becomes a launch-day step, not a hold | 30 Oct 2026 | Hold post 11 until it does. With all 12 posts going out on Instagram on one day, the launch day waits for it. | Post 11 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram) |
 | M4 | Post 12 · Launch | Store links (post 12 does not wait for them) | Megh | When the App Store and Play Store links are live, add them to the nari1.com page and keep the bio link on nari1.com (it carries the founding reserve). Tell the team lead. | FYI (does not hold) |  | Nothing is held: post 12 goes out with the bio link on nari1.com. | Nothing: the post goes out with the fallback |
 | M5 | Post 12 · Launch | Date for the post 12 caption (optional) | Megh | Do you want a launch date in the caption of post 12? (a date, or NO) | FYI (does not hold) |  | Post 12 goes out with the caption that has no date line. | Nothing: the post goes out with the fallback |
 
@@ -78,8 +78,8 @@
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? | OPEN |  | Do not start the series. Nothing goes out. | Everything: no post goes out |
-| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) | OPEN |  | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
+| M1 | Post 1 · Tease | Waitlist page live on nari1.com | Megh | Is the Founding 1,000 page live on nari1.com, and does a real ₹49 payment go through and show in the count? | CLEARED 30 Oct 2026: live since 28 Oct 2026, checked 30 Oct | 30 Oct 2026 | Do not start the series. Nothing goes out. | Everything: no post goes out |
+| M2 | Post 1 to 12 | Grid test on a spare private account | Megh | Does the spare account show one joined picture like the one above? (the team lead sends you a screenshot) | CLEARED 30 Oct 2026: dropped as a blocker, guide 28 Oct | 30 Oct 2026 | Send the screenshot to the series seat. The picture is moved and re-made in about 30 seconds, then the test is repeated. Nothing goes live meanwhile. | Everything: no post goes out |
 
 ### Post 2 · Problem · Launch day, 2 of 12 on Instagram; day 2 on Facebook, LinkedIn and X
 
@@ -145,7 +145,7 @@
 
 | ID | Post | Hold | Owner | Question | Status | Answer date | If NO (fallback) | What it blocks |
 |---|---|---|---|---|---|---|---|---|
-| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? | OPEN |  | Hold post 11 until it does. With all 12 posts going out on Instagram on one day, the launch day waits for it. | Post 11 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram) |
+| M3 | Post 11 · Invite | Bio link works | Megh | Does the Instagram bio link open the live waitlist page on nari1.com? | CLEARED 30 Oct 2026: Megh, 30 Oct 2026: release all 12 as the grid; the bio link becomes a launch-day step, not a hold | 30 Oct 2026 | Hold post 11 until it does. With all 12 posts going out on Instagram on one day, the launch day waits for it. | Post 11 and every post after it (the profile picture only forms in order), so the whole launch day (all 12 go out together on Instagram) |
 
 ### Post 12 · Launch · Launch day, 12 of 12 on Instagram; day 12 on Facebook, LinkedIn and X
 

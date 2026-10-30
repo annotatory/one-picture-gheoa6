@@ -2,7 +2,7 @@
 
 Start: today, 28 Oct 2026. The team posts by hand from the phone app; no tool is connected to any account. Nothing is posted until the start gates (M1, M2) are YES.
 
-Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform. Planned launch day: 28 Oct 2026. Open questions that hold the launch day now: M1 (Megh), M2 (Megh), M3 (Megh), K4 (CCO).
+Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so the profile grid forms the picture at once (Megh, 28 Oct 2026). Facebook, LinkedIn and X: one post a day, in order 1 to 12, starting on the launch day (post 1 on the launch day, post 12 on day 12), so follower feeds there are not flooded (28 Oct 2026, night). The launch day starts only when every post is cleared; a held post holds the whole launch day. Posts after the 12 are paced on every platform. Planned launch day: 28 Oct 2026. Open questions that hold the launch day now: K4 (CCO).
 
 ## The steps, in order
 
@@ -19,18 +19,18 @@ Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so th
 
 | Post | Day | New at this post | Open now | Not blocking (fallback) | FYI only |
 |---|---|---|---|---|---|
-| 1 · Tease | Launch day, 1 of 12 on Instagram; day 1 on Facebook, LinkedIn and X | M1, M2 | M1, M2 | - | - |
-| 2 · Problem | Launch day, 2 of 12 on Instagram; day 2 on Facebook, LinkedIn and X | nothing new | M1, M2 | L1 | - |
-| 3 · Blueprint | Launch day, 3 of 12 on Instagram; day 3 on Facebook, LinkedIn and X | nothing new | M1, M2 | K1, K2, H1 | A1 |
-| 4 · Piece 1 · Energy | Launch day, 4 of 12 on Instagram; day 4 on Facebook, LinkedIn and X | nothing new | M1, M2 | R1 | H4, A2 |
-| 5 · Piece 2 · Focus | Launch day, 5 of 12 on Instagram; day 5 on Facebook, LinkedIn and X | nothing new | M1, M2 | - | - |
-| 6 · Piece 3 · Stress | Launch day, 6 of 12 on Instagram; day 6 on Facebook, LinkedIn and X | L2 | M1, M2 | - | A3, A4 |
-| 7 · Piece 4 · Sleep | Launch day, 7 of 12 on Instagram; day 7 on Facebook, LinkedIn and X | L3 | M1, M2 | - | H2, H3, A5 |
-| 8 · Piece 5 · Mood | Launch day, 8 of 12 on Instagram; day 8 on Facebook, LinkedIn and X | nothing new | M1, M2 | - | - |
-| 9 · Piece 6 · Body | Launch day, 9 of 12 on Instagram; day 9 on Facebook, LinkedIn and X | nothing new | M1, M2 | K3, L4 | A6 |
-| 10 · Prove | Launch day, 10 of 12 on Instagram; day 10 on Facebook, LinkedIn and X | K4, L5, N1 | M1, M2, K4 | - | H6, A7 |
-| 11 · Invite | Launch day, 11 of 12 on Instagram; day 11 on Facebook, LinkedIn and X | M3 | M1, M2, M3, K4 | - | - |
-| 12 · Launch | Launch day, 12 of 12 on Instagram; day 12 on Facebook, LinkedIn and X | N2 | M1, M2, M3, K4 | - | M4, M5, H5, A8 |
+| 1 · Tease | Launch day, 1 of 12 on Instagram; day 1 on Facebook, LinkedIn and X | M1, M2 | none | - | - |
+| 2 · Problem | Launch day, 2 of 12 on Instagram; day 2 on Facebook, LinkedIn and X | nothing new | none | L1 | - |
+| 3 · Blueprint | Launch day, 3 of 12 on Instagram; day 3 on Facebook, LinkedIn and X | nothing new | none | K1, K2, H1 | A1 |
+| 4 · Piece 1 · Energy | Launch day, 4 of 12 on Instagram; day 4 on Facebook, LinkedIn and X | nothing new | none | R1 | H4, A2 |
+| 5 · Piece 2 · Focus | Launch day, 5 of 12 on Instagram; day 5 on Facebook, LinkedIn and X | nothing new | none | - | - |
+| 6 · Piece 3 · Stress | Launch day, 6 of 12 on Instagram; day 6 on Facebook, LinkedIn and X | L2 | none | - | A3, A4 |
+| 7 · Piece 4 · Sleep | Launch day, 7 of 12 on Instagram; day 7 on Facebook, LinkedIn and X | L3 | none | - | H2, H3, A5 |
+| 8 · Piece 5 · Mood | Launch day, 8 of 12 on Instagram; day 8 on Facebook, LinkedIn and X | nothing new | none | - | - |
+| 9 · Piece 6 · Body | Launch day, 9 of 12 on Instagram; day 9 on Facebook, LinkedIn and X | nothing new | none | K3, L4 | A6 |
+| 10 · Prove | Launch day, 10 of 12 on Instagram; day 10 on Facebook, LinkedIn and X | K4, L5, N1 | K4 | - | H6, A7 |
+| 11 · Invite | Launch day, 11 of 12 on Instagram; day 11 on Facebook, LinkedIn and X | M3 | K4 | - | - |
+| 12 · Launch | Launch day, 12 of 12 on Instagram; day 12 on Facebook, LinkedIn and X | N2 | K4 | - | M4, M5, H5, A8 |
 
 ## When the launch day can go, by who answers next
 
@@ -38,13 +38,12 @@ Instagram: all 12 launch posts go out on one launch day, in order 1 to 12, so th
 
 | Answered YES by | Posts that can go on the launch day |
 |---|---|
-| The answers recorded so far | None: post 1 is still held, so the launch day waits |
-| + Megh | None: post 10 is still held, so the launch day waits |
-| + Megh and CCO | All 12: the launch day can go |
+| The answers recorded so far | None: post 10 is still held, so the launch day waits |
+| + CCO | All 12: the launch day can go |
 
 ## What holds the launch day
 
 - **Nothing goes out before the launch day:** On Instagram all 12 go out together, in order 1 to 12, so the profile grid forms the picture at once; Facebook, LinkedIn and X start the same day, one a day. A post that is held holds the whole launch day.
-- **Hold the launch day until cleared (open now):** M1 (Megh), M2 (Megh), M3 (Megh), K4 (CCO). On the day, posts 10 to 12 also need nari1.com to still show founding spots (if all 1,000 are taken: nothing goes out, tell Megh); on Facebook, LinkedIn and X the check repeats on days 10 to 12.
+- **Hold the launch day until cleared (open now):** K4 (CCO). On the day, posts 10 to 12 also need nari1.com to still show founding spots (if all 1,000 are taken: nothing goes out, tell Megh); on Facebook, LinkedIn and X the check repeats on days 10 to 12.
 - **Go with the prepared fallback, never a stop:** post 9 with the paid-safe slides 2 and 3 instead of the cycle sentence (until the CCO scope is named); post 3 with its caption sentence left out; post 4 with no time in the caption; post 12 with the bio link on nari1.com, and with no date line in the caption unless Megh gives a date. Paid ads wait for Counsel or the CCO.
-- **Cleared so far:** L1 (28 Oct 2026), L2 (28 Oct 2026), L3 (28 Oct 2026), L4 (28 Oct 2026), L5 (28 Oct 2026), N1 (28 Oct 2026), N2 (28 Oct 2026)
+- **Cleared so far:** M1 (30 Oct 2026), M2 (30 Oct 2026), M3 (30 Oct 2026), L1 (28 Oct 2026), L2 (28 Oct 2026), L3 (28 Oct 2026), L4 (28 Oct 2026), L5 (28 Oct 2026), N1 (28 Oct 2026), N2 (28 Oct 2026)
